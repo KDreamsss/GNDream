@@ -8,7 +8,10 @@ This is an Introduction from GITHUB workshop
 This is an explanation from Google.
 
 ### In Windows:
+...
 
 ### In Linux:
+...
 
 ### In IOS:
+...
